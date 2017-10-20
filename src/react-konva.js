@@ -2,7 +2,7 @@
 // https://github.com/reactjs/react-art
 
 var Konva = require('konva');
-var React = require('react/lib/React');
+var React = require('react');
 
 var PropTypes = require('prop-types');
 var createClass = require('create-react-class');
